@@ -2,11 +2,11 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap'); */
 @font-face {
   font-family: 'PlayFair Display';
-  src: url('/fonts/PlayfairDisplay-VariableFont_wght.ttf');
+  src: url('../fonts/PlayfairDisplay-VariableFont_wght.ttf');
 }
 @font-face {
   font-family: 'PlayFair Display Italic';
-  src: url(/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+  src: url(../fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf);
 }
 body{
   font-family: 'Playfair Display', serif;
